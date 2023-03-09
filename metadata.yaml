@@ -1,0 +1,46 @@
+_repo: The-little-elves-seeking-the-beautiful-world-b-A-book-for-children_70090
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bardwell, George Willis
+    alias: Bardwell, Geo. W.
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '49245'
+    url: http://www.gutenberg.org/2009/agents/49245
+creator:
+  author:
+    agent_name: Warner, Lucy Hamilton
+    gutenberg_agent_id: '55591'
+    url: http://www.gutenberg.org/2009/agents/55591
+description: ''
+gutenberg_issued: '2023-02-20'
+identifiers:
+  gutenberg: '70090'
+language: en
+pgterms:marc904: https://archive.org/details/littleelvesseeki00warn/page/n7/mode/2up
+pgterms:marc905: 20220322131451warner
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bDunreath Publishing Co., $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Queens -- Juvenile fiction'
+- !lcsh 'Happiness -- Juvenile fiction'
+- !lcsh 'Elves -- Juvenile fiction'
+- !lcsh 'Spiders -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The little elves seeking the beautiful world : $b A book for children'
+url: http://www.gutenberg.org/ebooks/70090
