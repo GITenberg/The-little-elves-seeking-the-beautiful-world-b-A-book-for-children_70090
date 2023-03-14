@@ -8,12 +8,17 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '49245'
     url: http://www.gutenberg.org/2009/agents/49245
+covers:
+- cover_type: archival
+  image_path: 70090-h/images/cover.jpg
 creator:
   author:
     agent_name: Warner, Lucy Hamilton
     gutenberg_agent_id: '55591'
     url: http://www.gutenberg.org/2009/agents/55591
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70090#The-little-elves-seeking-the-beautiful-world-b-A-book-for-children
 gutenberg_issued: '2023-02-20'
 identifiers:
   gutenberg: '70090'
